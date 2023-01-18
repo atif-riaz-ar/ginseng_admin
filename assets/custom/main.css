@@ -1,0 +1,150 @@
+.dataTables_wrapper .dataTables_length select {
+	width: 75px !important;
+}
+
+#dataTable_wrapper {
+	padding: 15px !important;
+	overflow-x: scroll !important;
+}
+
+.content {
+	padding-bottom: 100px !important;
+}
+
+#dataTable {
+	padding-top: 25px !important;
+}
+
+.accordion-button, .collapsed, .accordion .accordion-item .accordion-header .accordion-button {
+	color: #333 !important;
+	padding: 10px !important;
+}
+
+.clickable {
+	cursor: pointer !important;
+	padding: 3px 5px !important;
+	margin: 2px !important;
+	display: inline-block;
+}
+
+.custom_tooltip {
+	color: white !important;
+	background: black !important;
+	font-size: 11px;
+	line-height: 12px;
+	display: inline-block;
+	width: 150px;
+	padding: 7px 0 !important;
+	margin-top: -50px;
+	border-radius: 10px !important
+}
+
+.zIndex {
+	z-index: 1000000;
+}
+
+.grid_class {
+	margin-top: 8px !important;
+	margin-bottom: 8px !important;
+}
+
+.grid_class span {
+	font-size: 10px;
+}
+
+.grid_class a {
+	text-align: center;
+	display: block;
+	color: black !important;
+	line-height: 15px
+}
+
+.group-row-1 {
+	float: left !important;
+	width: 100% !important;
+}
+
+.group-row-2 {
+	float: left !important;
+	width: 50% !important;
+}
+
+.group-row-3 {
+	float: left !important;
+	width: 25% !important;
+}
+
+.group-row-4-left, .group-row-4-right {
+	float: left !important;
+	width: 12.5% !important;
+}
+
+.group-row-5-left, .group-row-5-right {
+	float: left !important;
+	width: 6.25% !important;
+}
+
+.group-ion {
+	font-size: 35px !important;
+	padding: 5px !important;
+}
+
+#binary_card {
+	width: 1700px !important;
+}
+
+.binary_fill_in {
+	overflow-x: scroll !important;
+	width: 100% !important;
+	text-align: -webkit-center;
+}
+
+#refreshGTB {
+	align-self: center !important;
+	margin-bottom: 30px !important;
+}
+
+.d-none {
+	display: none !important;
+}
+
+.grid_class span {
+	font-size: 12px !important;
+	line-height: 20px;
+}
+
+.selected_lang {
+	color: white !important;
+	padding: 1px 5px !important;
+	border-radius: 4px;
+}
+
+.lang_changer {
+	border: 1px solid silver;
+}
+
+.col-6 {
+	width: calc(50% - 30px) !important;
+	float: left;
+	margin: 5px 15px !important;
+}
+
+.col-12 {
+	width: calc(100% - 30px) !important;
+	float: left;
+	margin: 5px 15px !important;
+}
+
+.grid_class {
+	position: relative !important;
+}
+
+.custom_tooltip {
+	position: absolute !important;
+	margin-left: -75px !important;
+	margin-top: -107px !important;
+}
+#refreshGTB{
+	padding-top: 100px !important;
+	overflow-x: scroll !important;
+}
